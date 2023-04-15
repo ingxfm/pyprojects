@@ -1,0 +1,6 @@
+day 57 URL Building and Templating with Jinja in your flask application
+
+Jinja templating language for Python
+
+
+{{ }} these curly braces evaluate as Python code anything that is inside them

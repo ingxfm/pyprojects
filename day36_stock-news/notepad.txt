@@ -1,0 +1,29 @@
+9TBHNHUUPFL85XVZ
+c830d7015fea4216b2909c985adec297
+n98snvew98nv3hrnksndvio3443SSD
+TWILIO_ACCOUNT_SID=AC3a1277d7431b8eb5af807f4476800585
+TWILIO_AUTH_TOKEN=3f95520e52c72262340d8af3b92c6d60
+FROM_NUMBER=+18455390196
+TO_NUMBER=+420608792750
+SH_KEY=Basic ZmJxdWlucXVhZ2VzaW1vOms0OW51MzRpNW5nbEtTZW5y
+
+{'city': 'Paris', 'iataCode': '', 'lowestPrice': 54, 'id': 2}
+{'city': 'Berlin', 'iataCode': '', 'lowestPrice': 42, 'id': 3}
+{'city': 'Tokyo', 'iataCode': '', 'lowestPrice': 485, 'id': 4}
+{'city': 'Sydney', 'iataCode': '', 'lowestPrice': 551, 'id': 5}
+{'city': 'Istanbul', 'iataCode': '', 'lowestPrice': 95, 'id': 6}
+{'city': 'Kuala Lumpur', 'iataCode': '', 'lowestPrice': 414, 'id': 7}
+{'city': 'New York', 'iataCode': '', 'lowestPrice': 240, 'id': 8}
+{'city': 'San Francisco', 'iataCode': '', 'lowestPrice': 260, 'id': 9}
+{'city': 'Cape Town', 'iataCode': '', 'lowestPrice': 378, 'id': 10}
+{'city': 'Santo Domingo', 'iataCode': '', 'lowestPrice': 400, 'id': 11}
+{'city': 'Punta Cana', 'iataCode': '', 'lowestPrice': 400, 'id': 12}
+{'city': 'Hanoi', 'iataCode': '', 'lowestPrice': 450, 'id': 13}
+
+ # for city in self.cities:            
+ #            sheety_put_config = {
+ #                "price": {
+ #                    "iataCode": city,
+ #                }
+ #            }
+ #            if city == "":
